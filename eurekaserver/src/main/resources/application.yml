@@ -10,4 +10,4 @@ server:
 eureka:
   client:
     register-with-eukera: false
-    fecth-registry: false
+    fetch-registry: false
